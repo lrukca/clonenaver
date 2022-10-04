@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e495423c.css",
-    "main.js": "/static/js/main.38709c68.js",
-    "static/js/787.7da1d96a.chunk.js": "/static/js/787.7da1d96a.chunk.js",
-    "index.html": "/index.html",
-    "main.e495423c.css.map": "/static/css/main.e495423c.css.map",
-    "main.38709c68.js.map": "/static/js/main.38709c68.js.map",
-    "787.7da1d96a.chunk.js.map": "/static/js/787.7da1d96a.chunk.js.map"
+    "main.css": "/clonenaver/static/css/main.e495423c.css",
+    "main.js": "/clonenaver/static/js/main.bdd294ee.js",
+    "static/js/787.7da1d96a.chunk.js": "/clonenaver/static/js/787.7da1d96a.chunk.js",
+    "index.html": "/clonenaver/index.html",
+    "main.e495423c.css.map": "/clonenaver/static/css/main.e495423c.css.map",
+    "main.bdd294ee.js.map": "/clonenaver/static/js/main.bdd294ee.js.map",
+    "787.7da1d96a.chunk.js.map": "/clonenaver/static/js/787.7da1d96a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e495423c.css",
-    "static/js/main.38709c68.js"
+    "static/js/main.bdd294ee.js"
   ]
 }
